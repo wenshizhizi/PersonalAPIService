@@ -1,0 +1,66 @@
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.exe.config
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.exe
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.pdb
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Owin.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Cors.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.Resource.resources
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.ServiceContainer.resources
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.Properties.Resources.resources
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.csproj.GenerateResource.Cache
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.exe
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.pdb
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.exe.config
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.exe
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.pdb
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.exe
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.pdb
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Newtonsoft.Json.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Owin.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Net.Http.Formatting.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Cors.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Cors.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Owin.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.SelfHost.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\Newtonsoft.Json.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Net.Http.Formatting.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Cors.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.Owin.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Web.Http.SelfHost.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.csprojResolveAssemblyReference.cache
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.Resource.resources
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.ServiceContainer.resources
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.Properties.Resources.resources
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.csproj.GenerateResource.Cache
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Bson.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Bson.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.xml
+C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.Core.xml

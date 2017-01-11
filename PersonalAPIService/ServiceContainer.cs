@@ -49,7 +49,7 @@
 
                 try
                 {
-                    dis = WebApp.Start("http://{0}:{1}".FormatString(ip,port), Startup =>
+                    dis = WebApp.Start("http://{0}:{1}/".FormatString(ip,port), Startup =>
                     {
                         HttpConfiguration config = new HttpConfiguration();
 
@@ -61,8 +61,10 @@
                         // 注册默认路由
                         config.Routes.MapHttpRoute(
                                    name: "DefaultApi",
-                                   routeTemplate: "api/{controller}/{id}",
-                                   defaults: new { id = RouteParameter.Optional }
+                                   routeTemplate: "{controller}/{id}",                                   
+                                   defaults: new {
+                                       controller = "LoginSystem",                                                                         
+                                       id = RouteParameter.Optional }
                                );
                         
                         //启用跨域
