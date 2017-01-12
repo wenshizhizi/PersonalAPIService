@@ -49,7 +49,7 @@
 
                 try
                 {
-                    dis = WebApp.Start("http://{0}:{1}/".FormatString(ip,port), Startup =>
+                    dis = WebApp.Start("http://{0}:{1}".FormatString(ip,port), Startup =>
                     {
                         HttpConfiguration config = new HttpConfiguration();
 
@@ -82,7 +82,7 @@
                         Startup.UseWebApi(config);
                     });
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
                     if (dis != null)
                         dis.Dispose();

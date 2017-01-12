@@ -30,10 +30,10 @@
         {
             this.btnStartup = new System.Windows.Forms.Button();
             this.gbHostBox = new System.Windows.Forms.GroupBox();
-            this.labelIP = new System.Windows.Forms.Label();
-            this.textBoxIP = new System.Windows.Forms.TextBox();
             this.textBoxPort = new System.Windows.Forms.TextBox();
             this.labelPort = new System.Windows.Forms.Label();
+            this.textBoxIP = new System.Windows.Forms.TextBox();
+            this.labelIP = new System.Windows.Forms.Label();
             this.gbHostBox.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -62,24 +62,6 @@
             this.gbHostBox.TabStop = false;
             this.gbHostBox.Text = "服务端配置";
             // 
-            // labelIP
-            // 
-            this.labelIP.AutoSize = true;
-            this.labelIP.ForeColor = System.Drawing.Color.Maroon;
-            this.labelIP.Location = new System.Drawing.Point(23, 23);
-            this.labelIP.Name = "labelIP";
-            this.labelIP.Size = new System.Drawing.Size(17, 12);
-            this.labelIP.TabIndex = 0;
-            this.labelIP.Text = "IP";
-            // 
-            // textBoxIP
-            // 
-            this.textBoxIP.Location = new System.Drawing.Point(46, 20);
-            this.textBoxIP.Name = "textBoxIP";
-            this.textBoxIP.Size = new System.Drawing.Size(129, 21);
-            this.textBoxIP.TabIndex = 1;
-            this.textBoxIP.Text = "127.0.0.1";
-            // 
             // textBoxPort
             // 
             this.textBoxPort.Location = new System.Drawing.Point(46, 47);
@@ -97,6 +79,24 @@
             this.labelPort.Size = new System.Drawing.Size(29, 12);
             this.labelPort.TabIndex = 2;
             this.labelPort.Text = "Port";
+            // 
+            // textBoxIP
+            // 
+            this.textBoxIP.Location = new System.Drawing.Point(46, 20);
+            this.textBoxIP.Name = "textBoxIP";
+            this.textBoxIP.Size = new System.Drawing.Size(129, 21);
+            this.textBoxIP.TabIndex = 1;
+            this.textBoxIP.Text = "10.2.1.101";
+            // 
+            // labelIP
+            // 
+            this.labelIP.AutoSize = true;
+            this.labelIP.ForeColor = System.Drawing.Color.Maroon;
+            this.labelIP.Location = new System.Drawing.Point(23, 23);
+            this.labelIP.Name = "labelIP";
+            this.labelIP.Size = new System.Drawing.Size(17, 12);
+            this.labelIP.TabIndex = 0;
+            this.labelIP.Text = "IP";
             // 
             // ServiceContainer
             // 

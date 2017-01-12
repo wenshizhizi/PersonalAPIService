@@ -114,12 +114,14 @@
     <Compile Include="DataAccess\CustomerConfig.cs" />
     <Compile Include="DataAccess\EnglishPhrase.cs" />
     <Compile Include="DataAccess\EnglishWords.cs" />
+    <Compile Include="DataAccess\SystemUser.cs" />
     <Compile Include="DataAccess\Loginfo.cs" />
     <Compile Include="DataAccess\MongoDBConfig.cs" />
     <Compile Include="Entity\CollectedArtical.cs" />
     <Compile Include="Entity\CustomerConfig.cs" />
     <Compile Include="Entity\EnglishWord.cs" />
     <Compile Include="Entity\LastRandomWords.cs" />
+    <Compile Include="Entity\SystemUser.cs" />
     <Compile Include="Entity\LogInfo.cs" />
     <Compile Include="Entity\StudyPhraseStep.cs" />
     <Compile Include="Logic\LoginLogic.cs" />

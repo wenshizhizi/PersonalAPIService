@@ -7,6 +7,7 @@
     using Logic;
     using Newtonsoft.Json;
     using static System.ResponseUntil;
+    using Entity;
 
     public class LoginSystemController : ApiController
     {
@@ -27,14 +28,15 @@
                         password = ""
                     });
 
-                var isLoginSucceed = new LoginLogic().Login(user);
+                var systemUser = new LoginLogic().Login(user);
 
-                var result = isLoginSucceed ?
-                        new ResponseEntity<string>
+                var result = systemUser != default(SystemUser) ?
+                        new ResponseEntity<SystemUser>
                         {
-                            IsSucceed = true
+                            IsSucceed = true,
+                            Data = systemUser
                         } :
-                        new ResponseEntity<string>
+                        new ResponseEntity<SystemUser>
                         {
                             IsSucceed = false,
                             Msg = "登录失败，请检查日志"

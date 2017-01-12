@@ -3,13 +3,19 @@
 
 namespace PersonalAPIService.Logic
 {
+    using Entity;
     using System;
 
     public class LoginLogic
     {
-        public bool Login(dynamic user)
+        public SystemUser Login(dynamic user)
         {
-            throw new ApplicationException("登录失败，请检查日志");
+            var suser = new SystemUser {
+                UserName = user.name,
+                Password = user.password
+            };
+
+            return DataAccess.MongodbHelper.FindSystemUser(suser);            
         }
     }
 }
