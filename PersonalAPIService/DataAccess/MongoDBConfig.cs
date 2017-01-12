@@ -9,7 +9,7 @@ namespace PersonalAPIService.DataAccess
         /// <summary>
         /// 连接字符串
         /// </summary>
-        private static readonly string _connectionString = "mongodb://10.2.1.199:9528";
+        private static readonly string _connectionString = "mongodb://homeserver.iicp.net:9528";
 
         /// <summary>
         /// 数据库

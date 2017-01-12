@@ -1,5 +1,5 @@
 ﻿namespace PersonalAPIService.API
-{    
+{
     using System;
     using System.Collections.Generic;
     using System.Net;
@@ -13,31 +13,31 @@
     [RoutePrefix("e")]
     [Route("{action}")]
     public class EnglishWordsController : ApiController
-    {        
+    {
         /// <summary>
         /// 默认入口
-        /// </summary>       
-        /// <returns></returns>        
+        /// <para>
+        /// &gt;&gt;&gt;详情请参见<see cref="RequestType"/>
+        /// </para>     
+        /// </summary>
+        /// <param name="type">请求类型</param>
+        /// <returns>响应结果</returns>        
         [Route("{type}")]
-        [HttpGet]    
+        [HttpGet]
         [HttpPost]
         public async Task<HttpResponseMessage> DefaultProccess(int type)
         {
             try
-            {                
-                return await CreateResponseAsync("响应成功"); 
+            {
+                var requestType = type.ParseRequestType();
+
+                return await CreateResponseAsync("响应成功");
             }
             catch (Exception ex)
             {
                 MongodbHelper.InsertError(ex);
-                return await CreateResponseAsync(new ResponseEntity<string>
-                {
-                    Msg = ex.Message,
-                    IsSucceed = false
-                });
+                return await CreateErrResponseAsycn(ex.Message);
             }
         }
-        
-        
     }
 }

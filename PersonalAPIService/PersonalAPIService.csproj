@@ -108,7 +108,7 @@
   <ItemGroup>
     <Compile Include="APIControllers\LoginSystemController.cs" />
     <Compile Include="APIControllers\EnglishWordsController.cs" />
-    <Compile Include="common\Common.cs" />
+    <Compile Include="Common\CommonClasses.cs" />
     <Compile Include="DataAccess\CollectArticle.cs" />
     <Compile Include="DataAccess\CollectEnglishPhraseStep.cs" />
     <Compile Include="DataAccess\CustomerConfig.cs" />

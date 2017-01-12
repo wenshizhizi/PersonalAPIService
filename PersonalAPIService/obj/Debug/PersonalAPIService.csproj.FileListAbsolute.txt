@@ -64,3 +64,10 @@ C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\Personal
 C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Bson.xml
 C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.xml
 C:\Users\yangy\Documents\Visual Studio 2015\Projects\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.Core.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Bson.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.Core.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Bson.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.xml
+C:\SoftwarePorjects\Hbuilder\PersonalAPIService\PersonalAPIService\bin\Debug\MongoDB.Driver.Core.xml
