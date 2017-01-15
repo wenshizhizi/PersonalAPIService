@@ -108,3 +108,6 @@ C:\Users\yangy\Source\Repos\PersonalAPIService\PersonalAPIService\obj\Debug\Pers
 C:\Users\yangy\Source\Repos\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.ServiceContainer.resources
 C:\Users\yangy\Source\Repos\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.Properties.Resources.resources
 C:\Users\yangy\Source\Repos\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.csproj.GenerateResource.Cache
+D:\SoftwareProjects\C#\PersonalAPIService\PersonalAPIService\bin\Debug\PersonalAPIService.exe.config
+D:\SoftwareProjects\C#\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.exe
+D:\SoftwareProjects\C#\PersonalAPIService\PersonalAPIService\obj\Debug\PersonalAPIService.pdb
